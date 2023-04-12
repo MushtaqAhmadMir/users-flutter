@@ -19,6 +19,10 @@ dependencies:
   provider: ^6.0.5
   flutter_bloc: ^8.1.2
   http: ^0.13.5
+  snippet_coder_utils: ^1.0.13
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  get_it: ^7.2.0
 
 dev_dependencies:
   flutter_test:
